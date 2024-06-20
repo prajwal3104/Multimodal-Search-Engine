@@ -1,0 +1,7 @@
+tensorflow
+tensorflow-hub
+tensorflow-text 
+tensorflow-addons
+flask
+environs
+python-dotenv
